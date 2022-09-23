@@ -1,4 +1,4 @@
-[![MasterHead](https://2.bp.blogspot.com/-xJA-Gy7SSCs/W2aGPO-YmMI/AAAAAAAAJFw/nJ2YxkNqR48YWNAz1gwSbM5WHuZvINa4QCLcBGAs/s1600/never_stop_learning-gif.gif)
+![MasterHead](https://2.bp.blogspot.com/-xJA-Gy7SSCs/W2aGPO-YmMI/AAAAAAAAJFw/nJ2YxkNqR48YWNAz1gwSbM5WHuZvINa4QCLcBGAs/s1600/never_stop_learning-gif.gif)
 <h1 align="center">Hi 👋, I'm Evelina Georgiou</h1>
 <h3 align="center">I'm a coding enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
