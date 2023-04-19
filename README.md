@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evelinageo&label=Profile%20views&color=0e75b6&style=flat" alt="evelinageo" /> </p>
 
-- 🌱 I’m currently learning **python,html,JavaSkript,CSS**
+- 🌱 I’m currently learning **python,html,JavaScript,CSS**
 
 - 📫 How to reach me **evelinageorgiou18@gmail.com**
 
